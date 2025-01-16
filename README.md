@@ -16,7 +16,7 @@ To identify relationships between variables and the total quantity of items purc
   - **Lasso MSE:** 1.94  
 - Key predictors: Age and Gender.  
 - Limitations: Assumes linear relationships, high dimensionality from one-hot encoding, and potential biases from missing data imputation.  
-- **Robustness:** Cross-validation confirmed generalizability.  
+- **Robustness:** Cross-validation confirmed ability to generalize.  
 - **Future Steps:** Explore non-linear approaches (e.g., decision trees) to better handle complex interactions.
 
 ---
